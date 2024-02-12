@@ -1,0 +1,75 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    height: 620px;
+    max-width: 100%;
+    background-color: hsl(20.25, 40%, 92.16%);
+    justify-content: center;
+    align-items: center;
+}
+
+.perfume {
+    height: 460px;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+}
+
+.pix {
+
+}
+
+.legit  {
+    background-color: white;
+    height: 460px;
+    width: 35%;
+    border-bottom-right-radius: 1rem;
+    border-top-right-radius: 1rem;
+    padding-left: 20px;
+}
+
+.see {
+    font-size: 14px;
+    letter-spacing: 5px;
+    margin-top: 50px;
+    padding-left: 20px;
+}
+
+.dollar {
+      margin-top: 20px;
+      font-size: 30px;
+      color: hsl(158, 36%, 37%);
+      font-weight: bolder;
+      font-style: ;
+}
+
+p span {
+    width: 80%;
+    font-size: 14px;
+    margin-left: 20px;
+    text-decoration: line-through;
+}
+
+p {
+    margin: -20px;
+    padding-left: 20px;
+    color: hsl(159, 16%, 72%);
+    font-size: 20px;
+}
+
+h1 span {
+    color: hsl(158, 36%, 37%);
+}
+
+h1 {
+    font-weight: bolder;
+    letter-spacing: 0.05px;
+    padding: 0.03x;
+}
+button {
+    width: 85%;
+    height: 50px;
+    margin-top: 40px;
+    background-color: rgb(75, 95, 75);
+    color: white;
+    border-radius: 0.5rem;
+}
